@@ -7,5 +7,6 @@
   },
   "author": "xavier",
   "license": "ISC",
-  "description": "exercice_nodejs"
+  "description": "exercice_nodejs",
+  "type": "module"
 }
